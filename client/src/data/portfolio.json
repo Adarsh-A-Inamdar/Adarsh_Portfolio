@@ -1,0 +1,154 @@
+{
+    "personalInfo": {
+        "name": "Adarsh A Inamdar",
+        "title": "Computer Science Engineer | AI/ML Enthusiast",
+        "email": "eradarshainamdar@gmail.com",
+        "phone": "8073599968",
+        "location": "Davangere, India",
+        "education": [
+            {
+                "degree": "Bachelor of Engineering: Computer Science & Engineering",
+                "institution": "Bapuji Institute of Engineering And Technology",
+                "year": "Expected 06/2026",
+                "location": "Davangere"
+            },
+            {
+                "degree": "XII: PCMCs",
+                "institution": "Karnataka Board",
+                "year": "06/2022",
+                "location": "Davangere"
+            },
+            {
+                "degree": "X: CBSE Board",
+                "institution": "Maganur Basappa Public School",
+                "year": "04/2020",
+                "location": "Davangere"
+            }
+        ]
+    },
+    "summary": "I am a Computer Science Engineer passionate about building scalable software and AI solutions. With a strong foundation in data structures, algorithms, and full-stack development, I enjoy solving complex problems from first principles. I specialize in machine learning, data-driven applications, and modern web technologies, always striving for code quality and performance.",
+    "skills": [
+        "Machine Learning & Data Analysis",
+        "Software Development",
+        "Agile Practices",
+        "Database Management (NoSQL)",
+        "Python & Web Development",
+        "Django & React Frameworks",
+        "Scikit-learn & TensorFlow",
+        "Google Cloud & AWS",
+        "API Integration",
+        "Node.js & Express",
+        "HTML, CSS, Tailwind CSS"
+    ],
+    "projects": [
+        {
+            "title": "Fake News Detection System",
+            "image": "",
+            "technologies": [
+                "Python",
+                "NLP",
+                "Deep Learning",
+                "React"
+            ],
+            "description": "Built an end-to-end system to classify news articles as real or fake using NLP and deep learning models. Implemented text preprocessing and feature extraction. Integrated a React-based frontend to allow users to submit and analyze content. Focused on real-world applicability."
+        },
+        {
+            "title": "Library Management System",
+            "image": "",
+            "technologies": [
+                "Node.js",
+                "Express.js",
+                "MongoDB",
+                "Handlebars"
+            ],
+            "description": "Developed a full-stack web application to manage books and users. Implemented user authentication, profile management, and CRUD operations. Designed MongoDB schemas and RESTful routes. Built server-rendered views for structured UI flow."
+        },
+        {
+            "title": "Leukemia Classification Model",
+            "image": "",
+            "technologies": [
+                "Python",
+                "Deep Learning",
+                "Metaheuristic Optimization"
+            ],
+            "description": "Designed a deep learning model to classify and grade leukemia using metaheuristic optimization techniques to improve accuracy. Conducted experiments and documented findings in IEEE format. Focused on ML in healthcare."
+        },
+        {
+            "title": "Sentinel: Network Threat Detection",
+            "image": "",
+            "technologies": [
+                "Node.js",
+                "Express",
+                "React",
+                "Socket.io",
+                "Tailwind CSS"
+            ],
+            "description": "Designed an adaptive firewall dashboard for real-time threat detection using heuristic AI scoring. Built a packet-scoring engine assessing request velocity and behavior. Achieved sub-50ms latency and 98% detection of simulated attacks. Features live traffic visualization."
+        },
+        {
+            "title": "Pulse Chat",
+            "image": "",
+            "technologies": [
+                "React.js",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "Socket.io"
+            ],
+            "description": "Designed a scalable real-time chat system using WebSockets for low-latency communication. Implemented hybrid architecture separating REST auth from Socket.io. Built secure auth with BCrypt. Ensured message persistence with MongoDB."
+        }
+    ],
+    "hackathons": [
+        {
+            "name": "CognitiveX GenAI Hackathon",
+            "role": "Volunteer"
+        },
+        {
+            "name": "Rakuten Innovation Conference",
+            "role": "Magic Mirror, Voice-to-Code"
+        },
+        {
+            "name": "GMIT Hackathon",
+            "role": "2nd Place"
+        },
+        {
+            "name": "Smart India Hackathon",
+            "role": "Participant"
+        },
+        {
+            "name": "Code Quest 1.0",
+            "role": "Volunteer"
+        },
+        {
+            "name": "Manthan Hackathon",
+            "role": "Participant"
+        }
+    ],
+    "certifications": [
+        "Cyber Guru in Cyber Defence — IITJ TISC",
+        "Problem Solving (Basic) — HackerRank",
+        "Python — Udemy",
+        "Agile Scrum Certification — Infosys",
+        "MongoDB Python Developer Path — MongoDB University"
+    ],
+    "interests": [
+        "Technical event volunteer",
+        "Competitive programming",
+        "Blogging",
+        "Reading"
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "Intermediate (B1)"
+        },
+        {
+            "name": "Kannada",
+            "level": "Native"
+        },
+        {
+            "name": "Hindi",
+            "level": "Upper Intermediate (B2)"
+        }
+    ]
+}

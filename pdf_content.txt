@@ -1,0 +1,129 @@
+
+
+ADARSHA INAMDAR
+Summary
+B.Tech graduate in Computer Science with expertise in Python, Deep Learning, and Machine Learning
+frameworks. Completed projects in AI, computer vision, NLP, and metaheuristic deep learning models. Strong
+analytical skills aimed at developing innovative AI/ML solutions in energy technology.
+Skills
+Machine learning and data analysis
+Software development and programming
+Project management and agile practices
+Effective communication and problem-solving
+Database management and NoSQL solutions
+Python programming and web development
+Django and React frameworks
+Scikit-learn and TensorFlow libraries
+Cloud services: Google Cloud Platform and AWS
+API integration and network programming
+Front-end design: CSS, HTML, Tailwind CSS
+Node.js and Express development
+Projects
+Fake News Detection System
+Tech: Python, NLP, Deep Learning, React
+Library Management System
+Tech: Node.js, Express.js, MongoDB, Handlebars
+Metaheuristic Deep Learning Model for Leukemia Classification and Grading
+Tech: Python, Deep Learning, Metaheuristic Optimization
+Sentinel: Real-Time Network Threat Detection System
+Tech Stack: Node.js, Express.js, React.js, MongoDB, Socket.io, Tailwind CSS, Recharts
+Pulse Chat: Real-Time Messaging Web Application
+Tech Stack: React.js, Node.js, Express.js, MongoDB, Socket.io, WebSockets, BCrypt
+Davangere, India 577004 | 8073599968 | eradarshainamdar@gmail.com
+Built an end-to-end system to classify news articles as real or fake using NLP and deep learning
+models
+•
+Implemented text preprocessing, feature extraction, and model training for accurate classification
+•
+Integrated a React-based frontend to allow users to submit and analyze news content
+•
+Focused on real-world applicability and model performance rather than toy datasets
+•
+Developed a full-stack web application to manage books and users in a library environment
+•
+Implemented user authentication, profile management, and CRUD operations for books
+•
+Designed MongoDB schemas and RESTful routes for efficient data handling
+•
+Built server-rendered views using Handlebars for clean and structured UI flow
+•
+Designed a deep learning model to classify and grade leukemia from medical data
+•
+Applied metaheuristic optimization techniques to improve model accuracy and convergence
+•
+Conducted experiments, evaluated results, and documented findings in IEEE research format
+•
+Focused on the intersection of machine learning and healthcare applications
+•
+Designed and implemented an adaptive firewall dashboard for real-time network threat detection using
+heuristic AI scoring.
+•
+Built a transparent packet-scoring engine that evaluates traffic based on request velocity, port
+sensitivity, and behavioral patterns.
+•
+Simulated realistic TCP/UDP traffic and attack scenarios (DDoS floods, port scanning) using a custom
+packet generator.
+•
+Achieved sub-50 ms end-to-end latency and detected 98% of simulated high-volume attacks.
+•
+Developed a human-in-the-loop security workflow with manual block/unblock controls and explainable
+threat decisions.
+•
+Implemented live traffic visualization and alerts using WebSockets for SOC-style monitoring.
+•
+
+Expected in 06/2026
+Davangere
+06/2022
+Davangere
+04/2020
+Davangere
+Hackathons and Accomplishments
+CognitiveX GenAI Hackathon — Volunteer
+Rakuten Innovation Conference — Magic Mirror, Voice-to-Code
+GMIT Hackathon — 2nd Place
+Smart India Hackathon — Participant
+Code Quest 1.0 — Volunteer
+Manthan Hackathon — Participant
+Certifications
+Cyber Guru in Cyber Defence — IITJ TISC
+Problem Solving (Basic) — HackerRank
+Python — Udemy
+Agile Scrum Certification — Infosys
+MongoDB Python Developer Path — MongoDB University
+Education
+Bachelor of Engineering: Computer Science & Engineering
+Bapuji Institute of Engineering And Technology
+XII: PCMCs
+Karnataka Board
+X: CBSE Board
+Maganur Basappa Public School
+Activities & Interests
+Technical event volunteer
+competitive programming
+blogging
+reading
+Languages
+Designed a scalable real-time chat system using WebSockets for low-latency, bidirectional
+communication.
+•
+Implemented a hybrid architecture separating REST-based authentication from Socket.io messaging
+for scalability.
+•
+Built secure user authentication with BCrypt password hashing and session-based socket
+authorization.
+•
+Developed an efficient in-memory user-to-socket mapping enabling O(1) message routing between
+active users.
+•
+Ensured message persistence with a normalized MongoDB schema supporting cross-device chat
+history.
+•
+Delivered a responsive UI using optimistic state updates for instant message rendering.
+•
+B1English:
+Intermediate (B1)
+NativeKannada:
+Native
+B2Hindi:
+Upper Intermediate (B2)
