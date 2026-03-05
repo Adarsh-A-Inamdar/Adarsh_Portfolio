@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "/Users/adarshainamdar/Desktop/Development/MERN/adarsh_portfolio/src/assets/myimg.png";
+import Profile from "/src/assets/myimg.png";
 
 function About() {
   return (
